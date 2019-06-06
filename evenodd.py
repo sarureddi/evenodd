@@ -1,5 +1,5 @@
-v1=45
-v2=45
+v1=12
+v2=3
 mul=v1*v2
 print(mul)
 if(mul%2==0):
